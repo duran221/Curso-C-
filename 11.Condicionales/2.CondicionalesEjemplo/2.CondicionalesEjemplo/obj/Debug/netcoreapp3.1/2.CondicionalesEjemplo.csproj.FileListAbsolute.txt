@@ -1,0 +1,10 @@
+C:\Users\crist\Documents\Universidad\Curso C#\11.Condicionales\2.CondicionalesEjemplo\2.CondicionalesEjemplo\bin\Debug\netcoreapp3.1\2.CondicionalesEjemplo.exe
+C:\Users\crist\Documents\Universidad\Curso C#\11.Condicionales\2.CondicionalesEjemplo\2.CondicionalesEjemplo\bin\Debug\netcoreapp3.1\2.CondicionalesEjemplo.deps.json
+C:\Users\crist\Documents\Universidad\Curso C#\11.Condicionales\2.CondicionalesEjemplo\2.CondicionalesEjemplo\bin\Debug\netcoreapp3.1\2.CondicionalesEjemplo.runtimeconfig.json
+C:\Users\crist\Documents\Universidad\Curso C#\11.Condicionales\2.CondicionalesEjemplo\2.CondicionalesEjemplo\bin\Debug\netcoreapp3.1\2.CondicionalesEjemplo.runtimeconfig.dev.json
+C:\Users\crist\Documents\Universidad\Curso C#\11.Condicionales\2.CondicionalesEjemplo\2.CondicionalesEjemplo\bin\Debug\netcoreapp3.1\2.CondicionalesEjemplo.dll
+C:\Users\crist\Documents\Universidad\Curso C#\11.Condicionales\2.CondicionalesEjemplo\2.CondicionalesEjemplo\bin\Debug\netcoreapp3.1\2.CondicionalesEjemplo.pdb
+C:\Users\crist\Documents\Universidad\Curso C#\11.Condicionales\2.CondicionalesEjemplo\2.CondicionalesEjemplo\obj\Debug\netcoreapp3.1\2.CondicionalesEjemplo.AssemblyInfoInputs.cache
+C:\Users\crist\Documents\Universidad\Curso C#\11.Condicionales\2.CondicionalesEjemplo\2.CondicionalesEjemplo\obj\Debug\netcoreapp3.1\2.CondicionalesEjemplo.AssemblyInfo.cs
+C:\Users\crist\Documents\Universidad\Curso C#\11.Condicionales\2.CondicionalesEjemplo\2.CondicionalesEjemplo\obj\Debug\netcoreapp3.1\2.CondicionalesEjemplo.dll
+C:\Users\crist\Documents\Universidad\Curso C#\11.Condicionales\2.CondicionalesEjemplo\2.CondicionalesEjemplo\obj\Debug\netcoreapp3.1\2.CondicionalesEjemplo.pdb

@@ -1,0 +1,22 @@
+C:\Users\crist\source\repos\Metodos\Metodos\bin\Debug\netcoreapp3.1\Metodos.exe
+C:\Users\crist\source\repos\Metodos\Metodos\bin\Debug\netcoreapp3.1\Metodos.deps.json
+C:\Users\crist\source\repos\Metodos\Metodos\bin\Debug\netcoreapp3.1\Metodos.runtimeconfig.json
+C:\Users\crist\source\repos\Metodos\Metodos\bin\Debug\netcoreapp3.1\Metodos.runtimeconfig.dev.json
+C:\Users\crist\source\repos\Metodos\Metodos\bin\Debug\netcoreapp3.1\Metodos.dll
+C:\Users\crist\source\repos\Metodos\Metodos\bin\Debug\netcoreapp3.1\Metodos.pdb
+C:\Users\crist\source\repos\Metodos\Metodos\obj\Debug\netcoreapp3.1\Metodos.csprojAssemblyReference.cache
+C:\Users\crist\source\repos\Metodos\Metodos\obj\Debug\netcoreapp3.1\Metodos.AssemblyInfoInputs.cache
+C:\Users\crist\source\repos\Metodos\Metodos\obj\Debug\netcoreapp3.1\Metodos.AssemblyInfo.cs
+C:\Users\crist\source\repos\Metodos\Metodos\obj\Debug\netcoreapp3.1\Metodos.dll
+C:\Users\crist\source\repos\Metodos\Metodos\obj\Debug\netcoreapp3.1\Metodos.pdb
+C:\Users\crist\Documents\Universidad\Curso C#\8.Métodos\Metodos\Metodos\obj\Debug\netcoreapp3.1\Metodos.csprojAssemblyReference.cache
+C:\Users\crist\Documents\Universidad\Curso C#\8.Métodos\Metodos\Metodos\obj\Debug\netcoreapp3.1\Metodos.AssemblyInfoInputs.cache
+C:\Users\crist\Documents\Universidad\Curso C#\8.Métodos\Metodos\Metodos\obj\Debug\netcoreapp3.1\Metodos.AssemblyInfo.cs
+C:\Users\crist\Documents\Universidad\Curso C#\8.Métodos\Metodos\Metodos\obj\Debug\netcoreapp3.1\Metodos.dll
+C:\Users\crist\Documents\Universidad\Curso C#\8.Métodos\Metodos\Metodos\obj\Debug\netcoreapp3.1\Metodos.pdb
+C:\Users\crist\Documents\Universidad\Curso C#\8.Métodos\Metodos\Metodos\bin\Debug\netcoreapp3.1\Metodos.exe
+C:\Users\crist\Documents\Universidad\Curso C#\8.Métodos\Metodos\Metodos\bin\Debug\netcoreapp3.1\Metodos.deps.json
+C:\Users\crist\Documents\Universidad\Curso C#\8.Métodos\Metodos\Metodos\bin\Debug\netcoreapp3.1\Metodos.runtimeconfig.json
+C:\Users\crist\Documents\Universidad\Curso C#\8.Métodos\Metodos\Metodos\bin\Debug\netcoreapp3.1\Metodos.runtimeconfig.dev.json
+C:\Users\crist\Documents\Universidad\Curso C#\8.Métodos\Metodos\Metodos\bin\Debug\netcoreapp3.1\Metodos.dll
+C:\Users\crist\Documents\Universidad\Curso C#\8.Métodos\Metodos\Metodos\bin\Debug\netcoreapp3.1\Metodos.pdb

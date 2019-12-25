@@ -1,0 +1,11 @@
+C:\Users\crist\Documents\Universidad\Curso C#\18.POO Ejemplos\1.Ejemplo_Clases\1.Ejemplo_Clases\bin\Debug\netcoreapp3.1\1.Ejemplo_Clases.exe
+C:\Users\crist\Documents\Universidad\Curso C#\18.POO Ejemplos\1.Ejemplo_Clases\1.Ejemplo_Clases\bin\Debug\netcoreapp3.1\1.Ejemplo_Clases.deps.json
+C:\Users\crist\Documents\Universidad\Curso C#\18.POO Ejemplos\1.Ejemplo_Clases\1.Ejemplo_Clases\bin\Debug\netcoreapp3.1\1.Ejemplo_Clases.runtimeconfig.json
+C:\Users\crist\Documents\Universidad\Curso C#\18.POO Ejemplos\1.Ejemplo_Clases\1.Ejemplo_Clases\bin\Debug\netcoreapp3.1\1.Ejemplo_Clases.runtimeconfig.dev.json
+C:\Users\crist\Documents\Universidad\Curso C#\18.POO Ejemplos\1.Ejemplo_Clases\1.Ejemplo_Clases\bin\Debug\netcoreapp3.1\1.Ejemplo_Clases.dll
+C:\Users\crist\Documents\Universidad\Curso C#\18.POO Ejemplos\1.Ejemplo_Clases\1.Ejemplo_Clases\bin\Debug\netcoreapp3.1\1.Ejemplo_Clases.pdb
+C:\Users\crist\Documents\Universidad\Curso C#\18.POO Ejemplos\1.Ejemplo_Clases\1.Ejemplo_Clases\obj\Debug\netcoreapp3.1\1.Ejemplo_Clases.csprojAssemblyReference.cache
+C:\Users\crist\Documents\Universidad\Curso C#\18.POO Ejemplos\1.Ejemplo_Clases\1.Ejemplo_Clases\obj\Debug\netcoreapp3.1\1.Ejemplo_Clases.AssemblyInfoInputs.cache
+C:\Users\crist\Documents\Universidad\Curso C#\18.POO Ejemplos\1.Ejemplo_Clases\1.Ejemplo_Clases\obj\Debug\netcoreapp3.1\1.Ejemplo_Clases.AssemblyInfo.cs
+C:\Users\crist\Documents\Universidad\Curso C#\18.POO Ejemplos\1.Ejemplo_Clases\1.Ejemplo_Clases\obj\Debug\netcoreapp3.1\1.Ejemplo_Clases.dll
+C:\Users\crist\Documents\Universidad\Curso C#\18.POO Ejemplos\1.Ejemplo_Clases\1.Ejemplo_Clases\obj\Debug\netcoreapp3.1\1.Ejemplo_Clases.pdb

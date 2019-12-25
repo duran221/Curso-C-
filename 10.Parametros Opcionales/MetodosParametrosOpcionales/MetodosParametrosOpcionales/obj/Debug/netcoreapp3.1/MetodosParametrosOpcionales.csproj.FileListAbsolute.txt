@@ -1,0 +1,11 @@
+C:\Users\crist\source\repos\MetodosParametrosOpcionales\MetodosParametrosOpcionales\bin\Debug\netcoreapp3.1\MetodosParametrosOpcionales.exe
+C:\Users\crist\source\repos\MetodosParametrosOpcionales\MetodosParametrosOpcionales\bin\Debug\netcoreapp3.1\MetodosParametrosOpcionales.deps.json
+C:\Users\crist\source\repos\MetodosParametrosOpcionales\MetodosParametrosOpcionales\bin\Debug\netcoreapp3.1\MetodosParametrosOpcionales.runtimeconfig.json
+C:\Users\crist\source\repos\MetodosParametrosOpcionales\MetodosParametrosOpcionales\bin\Debug\netcoreapp3.1\MetodosParametrosOpcionales.runtimeconfig.dev.json
+C:\Users\crist\source\repos\MetodosParametrosOpcionales\MetodosParametrosOpcionales\bin\Debug\netcoreapp3.1\MetodosParametrosOpcionales.dll
+C:\Users\crist\source\repos\MetodosParametrosOpcionales\MetodosParametrosOpcionales\bin\Debug\netcoreapp3.1\MetodosParametrosOpcionales.pdb
+C:\Users\crist\source\repos\MetodosParametrosOpcionales\MetodosParametrosOpcionales\obj\Debug\netcoreapp3.1\MetodosParametrosOpcionales.csprojAssemblyReference.cache
+C:\Users\crist\source\repos\MetodosParametrosOpcionales\MetodosParametrosOpcionales\obj\Debug\netcoreapp3.1\MetodosParametrosOpcionales.AssemblyInfoInputs.cache
+C:\Users\crist\source\repos\MetodosParametrosOpcionales\MetodosParametrosOpcionales\obj\Debug\netcoreapp3.1\MetodosParametrosOpcionales.AssemblyInfo.cs
+C:\Users\crist\source\repos\MetodosParametrosOpcionales\MetodosParametrosOpcionales\obj\Debug\netcoreapp3.1\MetodosParametrosOpcionales.dll
+C:\Users\crist\source\repos\MetodosParametrosOpcionales\MetodosParametrosOpcionales\obj\Debug\netcoreapp3.1\MetodosParametrosOpcionales.pdb

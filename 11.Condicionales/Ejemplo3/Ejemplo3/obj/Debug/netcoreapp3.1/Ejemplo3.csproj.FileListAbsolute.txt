@@ -1,0 +1,11 @@
+C:\Users\crist\Documents\Universidad\Curso C#\11.Condicionales\Ejemplo3\Ejemplo3\bin\Debug\netcoreapp3.1\Ejemplo3.exe
+C:\Users\crist\Documents\Universidad\Curso C#\11.Condicionales\Ejemplo3\Ejemplo3\bin\Debug\netcoreapp3.1\Ejemplo3.deps.json
+C:\Users\crist\Documents\Universidad\Curso C#\11.Condicionales\Ejemplo3\Ejemplo3\bin\Debug\netcoreapp3.1\Ejemplo3.runtimeconfig.json
+C:\Users\crist\Documents\Universidad\Curso C#\11.Condicionales\Ejemplo3\Ejemplo3\bin\Debug\netcoreapp3.1\Ejemplo3.runtimeconfig.dev.json
+C:\Users\crist\Documents\Universidad\Curso C#\11.Condicionales\Ejemplo3\Ejemplo3\bin\Debug\netcoreapp3.1\Ejemplo3.dll
+C:\Users\crist\Documents\Universidad\Curso C#\11.Condicionales\Ejemplo3\Ejemplo3\bin\Debug\netcoreapp3.1\Ejemplo3.pdb
+C:\Users\crist\Documents\Universidad\Curso C#\11.Condicionales\Ejemplo3\Ejemplo3\obj\Debug\netcoreapp3.1\Ejemplo3.csprojAssemblyReference.cache
+C:\Users\crist\Documents\Universidad\Curso C#\11.Condicionales\Ejemplo3\Ejemplo3\obj\Debug\netcoreapp3.1\Ejemplo3.AssemblyInfoInputs.cache
+C:\Users\crist\Documents\Universidad\Curso C#\11.Condicionales\Ejemplo3\Ejemplo3\obj\Debug\netcoreapp3.1\Ejemplo3.AssemblyInfo.cs
+C:\Users\crist\Documents\Universidad\Curso C#\11.Condicionales\Ejemplo3\Ejemplo3\obj\Debug\netcoreapp3.1\Ejemplo3.dll
+C:\Users\crist\Documents\Universidad\Curso C#\11.Condicionales\Ejemplo3\Ejemplo3\obj\Debug\netcoreapp3.1\Ejemplo3.pdb
