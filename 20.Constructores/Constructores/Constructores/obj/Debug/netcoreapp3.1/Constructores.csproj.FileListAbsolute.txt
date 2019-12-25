@@ -1,0 +1,11 @@
+C:\Users\crist\Documents\Universidad\Curso C#\20.Constructores\Constructores\Constructores\bin\Debug\netcoreapp3.1\Constructores.exe
+C:\Users\crist\Documents\Universidad\Curso C#\20.Constructores\Constructores\Constructores\bin\Debug\netcoreapp3.1\Constructores.deps.json
+C:\Users\crist\Documents\Universidad\Curso C#\20.Constructores\Constructores\Constructores\bin\Debug\netcoreapp3.1\Constructores.runtimeconfig.json
+C:\Users\crist\Documents\Universidad\Curso C#\20.Constructores\Constructores\Constructores\bin\Debug\netcoreapp3.1\Constructores.runtimeconfig.dev.json
+C:\Users\crist\Documents\Universidad\Curso C#\20.Constructores\Constructores\Constructores\bin\Debug\netcoreapp3.1\Constructores.dll
+C:\Users\crist\Documents\Universidad\Curso C#\20.Constructores\Constructores\Constructores\bin\Debug\netcoreapp3.1\Constructores.pdb
+C:\Users\crist\Documents\Universidad\Curso C#\20.Constructores\Constructores\Constructores\obj\Debug\netcoreapp3.1\Constructores.csprojAssemblyReference.cache
+C:\Users\crist\Documents\Universidad\Curso C#\20.Constructores\Constructores\Constructores\obj\Debug\netcoreapp3.1\Constructores.AssemblyInfoInputs.cache
+C:\Users\crist\Documents\Universidad\Curso C#\20.Constructores\Constructores\Constructores\obj\Debug\netcoreapp3.1\Constructores.AssemblyInfo.cs
+C:\Users\crist\Documents\Universidad\Curso C#\20.Constructores\Constructores\Constructores\obj\Debug\netcoreapp3.1\Constructores.dll
+C:\Users\crist\Documents\Universidad\Curso C#\20.Constructores\Constructores\Constructores\obj\Debug\netcoreapp3.1\Constructores.pdb
