@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Get_Setters</id>
+    <version>1.0.0</version>
+    <authors>Get_Setters</authors>
+    <owners>Get_Setters</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\crist\Documents\Universidad\Curso C#\21.Getter_Setters\Get_Setters\Get_Setters\bin\Debug\netcoreapp3.1\Get_Setters.runtimeconfig.json" target="lib\netcoreapp3.1\Get_Setters.runtimeconfig.json" />
+    <file src="C:\Users\crist\Documents\Universidad\Curso C#\21.Getter_Setters\Get_Setters\Get_Setters\bin\Debug\netcoreapp3.1\Get_Setters.dll" target="lib\netcoreapp3.1\Get_Setters.dll" />
+  </files>
+</package>

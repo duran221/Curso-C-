@@ -1,0 +1,11 @@
+C:\Users\crist\Documents\Universidad\Curso C#\21.Getter_Setters\Get_Setters\Get_Setters\bin\Debug\netcoreapp3.1\Get_Setters.exe
+C:\Users\crist\Documents\Universidad\Curso C#\21.Getter_Setters\Get_Setters\Get_Setters\bin\Debug\netcoreapp3.1\Get_Setters.deps.json
+C:\Users\crist\Documents\Universidad\Curso C#\21.Getter_Setters\Get_Setters\Get_Setters\bin\Debug\netcoreapp3.1\Get_Setters.runtimeconfig.json
+C:\Users\crist\Documents\Universidad\Curso C#\21.Getter_Setters\Get_Setters\Get_Setters\bin\Debug\netcoreapp3.1\Get_Setters.runtimeconfig.dev.json
+C:\Users\crist\Documents\Universidad\Curso C#\21.Getter_Setters\Get_Setters\Get_Setters\bin\Debug\netcoreapp3.1\Get_Setters.dll
+C:\Users\crist\Documents\Universidad\Curso C#\21.Getter_Setters\Get_Setters\Get_Setters\bin\Debug\netcoreapp3.1\Get_Setters.pdb
+C:\Users\crist\Documents\Universidad\Curso C#\21.Getter_Setters\Get_Setters\Get_Setters\obj\Debug\netcoreapp3.1\Get_Setters.csprojAssemblyReference.cache
+C:\Users\crist\Documents\Universidad\Curso C#\21.Getter_Setters\Get_Setters\Get_Setters\obj\Debug\netcoreapp3.1\Get_Setters.AssemblyInfoInputs.cache
+C:\Users\crist\Documents\Universidad\Curso C#\21.Getter_Setters\Get_Setters\Get_Setters\obj\Debug\netcoreapp3.1\Get_Setters.AssemblyInfo.cs
+C:\Users\crist\Documents\Universidad\Curso C#\21.Getter_Setters\Get_Setters\Get_Setters\obj\Debug\netcoreapp3.1\Get_Setters.dll
+C:\Users\crist\Documents\Universidad\Curso C#\21.Getter_Setters\Get_Setters\Get_Setters\obj\Debug\netcoreapp3.1\Get_Setters.pdb
