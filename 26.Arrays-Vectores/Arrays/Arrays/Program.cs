@@ -35,6 +35,10 @@ namespace Arrays
 
             Console.WriteLine(arrayClaseAnonima[0]);
             
+            for(int i=0; i<anios.Length; i++)
+            {
+                Console.WriteLine($"años del personaje {i+1} : {anios[i]}");
+            }
 
 
             
