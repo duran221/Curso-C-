@@ -1,0 +1,11 @@
+C:\Users\crist\Documents\Universidad\Curso C#\30.Ejercicio Práctico\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\Ejercicio.exe
+C:\Users\crist\Documents\Universidad\Curso C#\30.Ejercicio Práctico\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\Ejercicio.deps.json
+C:\Users\crist\Documents\Universidad\Curso C#\30.Ejercicio Práctico\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\Ejercicio.runtimeconfig.json
+C:\Users\crist\Documents\Universidad\Curso C#\30.Ejercicio Práctico\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\Ejercicio.runtimeconfig.dev.json
+C:\Users\crist\Documents\Universidad\Curso C#\30.Ejercicio Práctico\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\Ejercicio.dll
+C:\Users\crist\Documents\Universidad\Curso C#\30.Ejercicio Práctico\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\Ejercicio.pdb
+C:\Users\crist\Documents\Universidad\Curso C#\30.Ejercicio Práctico\Ejercicio\Ejercicio\obj\Debug\netcoreapp3.1\Ejercicio.csprojAssemblyReference.cache
+C:\Users\crist\Documents\Universidad\Curso C#\30.Ejercicio Práctico\Ejercicio\Ejercicio\obj\Debug\netcoreapp3.1\Ejercicio.AssemblyInfoInputs.cache
+C:\Users\crist\Documents\Universidad\Curso C#\30.Ejercicio Práctico\Ejercicio\Ejercicio\obj\Debug\netcoreapp3.1\Ejercicio.AssemblyInfo.cs
+C:\Users\crist\Documents\Universidad\Curso C#\30.Ejercicio Práctico\Ejercicio\Ejercicio\obj\Debug\netcoreapp3.1\Ejercicio.dll
+C:\Users\crist\Documents\Universidad\Curso C#\30.Ejercicio Práctico\Ejercicio\Ejercicio\obj\Debug\netcoreapp3.1\Ejercicio.pdb
