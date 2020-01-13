@@ -1,0 +1,11 @@
+C:\Users\crist\Documents\Universidad\Curso C#\29.Polimorfismo\1.Polimorfismo\1.Polimorfismo\bin\Debug\netcoreapp3.1\1.Polimorfismo.exe
+C:\Users\crist\Documents\Universidad\Curso C#\29.Polimorfismo\1.Polimorfismo\1.Polimorfismo\bin\Debug\netcoreapp3.1\1.Polimorfismo.deps.json
+C:\Users\crist\Documents\Universidad\Curso C#\29.Polimorfismo\1.Polimorfismo\1.Polimorfismo\bin\Debug\netcoreapp3.1\1.Polimorfismo.runtimeconfig.json
+C:\Users\crist\Documents\Universidad\Curso C#\29.Polimorfismo\1.Polimorfismo\1.Polimorfismo\bin\Debug\netcoreapp3.1\1.Polimorfismo.runtimeconfig.dev.json
+C:\Users\crist\Documents\Universidad\Curso C#\29.Polimorfismo\1.Polimorfismo\1.Polimorfismo\bin\Debug\netcoreapp3.1\1.Polimorfismo.dll
+C:\Users\crist\Documents\Universidad\Curso C#\29.Polimorfismo\1.Polimorfismo\1.Polimorfismo\bin\Debug\netcoreapp3.1\1.Polimorfismo.pdb
+C:\Users\crist\Documents\Universidad\Curso C#\29.Polimorfismo\1.Polimorfismo\1.Polimorfismo\obj\Debug\netcoreapp3.1\1.Polimorfismo.csprojAssemblyReference.cache
+C:\Users\crist\Documents\Universidad\Curso C#\29.Polimorfismo\1.Polimorfismo\1.Polimorfismo\obj\Debug\netcoreapp3.1\1.Polimorfismo.AssemblyInfoInputs.cache
+C:\Users\crist\Documents\Universidad\Curso C#\29.Polimorfismo\1.Polimorfismo\1.Polimorfismo\obj\Debug\netcoreapp3.1\1.Polimorfismo.AssemblyInfo.cs
+C:\Users\crist\Documents\Universidad\Curso C#\29.Polimorfismo\1.Polimorfismo\1.Polimorfismo\obj\Debug\netcoreapp3.1\1.Polimorfismo.dll
+C:\Users\crist\Documents\Universidad\Curso C#\29.Polimorfismo\1.Polimorfismo\1.Polimorfismo\obj\Debug\netcoreapp3.1\1.Polimorfismo.pdb

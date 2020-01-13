@@ -1,0 +1,11 @@
+C:\Users\crist\Documents\Universidad\Curso C#\27.Herencia\ConstructoresHerencia\ConstructoresHerencia\bin\Debug\netcoreapp3.1\ConstructoresHerencia.exe
+C:\Users\crist\Documents\Universidad\Curso C#\27.Herencia\ConstructoresHerencia\ConstructoresHerencia\bin\Debug\netcoreapp3.1\ConstructoresHerencia.deps.json
+C:\Users\crist\Documents\Universidad\Curso C#\27.Herencia\ConstructoresHerencia\ConstructoresHerencia\bin\Debug\netcoreapp3.1\ConstructoresHerencia.runtimeconfig.json
+C:\Users\crist\Documents\Universidad\Curso C#\27.Herencia\ConstructoresHerencia\ConstructoresHerencia\bin\Debug\netcoreapp3.1\ConstructoresHerencia.runtimeconfig.dev.json
+C:\Users\crist\Documents\Universidad\Curso C#\27.Herencia\ConstructoresHerencia\ConstructoresHerencia\bin\Debug\netcoreapp3.1\ConstructoresHerencia.dll
+C:\Users\crist\Documents\Universidad\Curso C#\27.Herencia\ConstructoresHerencia\ConstructoresHerencia\bin\Debug\netcoreapp3.1\ConstructoresHerencia.pdb
+C:\Users\crist\Documents\Universidad\Curso C#\27.Herencia\ConstructoresHerencia\ConstructoresHerencia\obj\Debug\netcoreapp3.1\ConstructoresHerencia.csprojAssemblyReference.cache
+C:\Users\crist\Documents\Universidad\Curso C#\27.Herencia\ConstructoresHerencia\ConstructoresHerencia\obj\Debug\netcoreapp3.1\ConstructoresHerencia.AssemblyInfoInputs.cache
+C:\Users\crist\Documents\Universidad\Curso C#\27.Herencia\ConstructoresHerencia\ConstructoresHerencia\obj\Debug\netcoreapp3.1\ConstructoresHerencia.AssemblyInfo.cs
+C:\Users\crist\Documents\Universidad\Curso C#\27.Herencia\ConstructoresHerencia\ConstructoresHerencia\obj\Debug\netcoreapp3.1\ConstructoresHerencia.dll
+C:\Users\crist\Documents\Universidad\Curso C#\27.Herencia\ConstructoresHerencia\ConstructoresHerencia\obj\Debug\netcoreapp3.1\ConstructoresHerencia.pdb
