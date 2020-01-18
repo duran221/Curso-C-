@@ -1,0 +1,11 @@
+C:\Users\crist\Documents\Universidad\Curso C#\31.Interfaces\EjemploInterfaces\EjemploInterfaces\bin\Debug\netcoreapp3.1\EjemploInterfaces.exe
+C:\Users\crist\Documents\Universidad\Curso C#\31.Interfaces\EjemploInterfaces\EjemploInterfaces\bin\Debug\netcoreapp3.1\EjemploInterfaces.deps.json
+C:\Users\crist\Documents\Universidad\Curso C#\31.Interfaces\EjemploInterfaces\EjemploInterfaces\bin\Debug\netcoreapp3.1\EjemploInterfaces.runtimeconfig.json
+C:\Users\crist\Documents\Universidad\Curso C#\31.Interfaces\EjemploInterfaces\EjemploInterfaces\bin\Debug\netcoreapp3.1\EjemploInterfaces.runtimeconfig.dev.json
+C:\Users\crist\Documents\Universidad\Curso C#\31.Interfaces\EjemploInterfaces\EjemploInterfaces\bin\Debug\netcoreapp3.1\EjemploInterfaces.dll
+C:\Users\crist\Documents\Universidad\Curso C#\31.Interfaces\EjemploInterfaces\EjemploInterfaces\bin\Debug\netcoreapp3.1\EjemploInterfaces.pdb
+C:\Users\crist\Documents\Universidad\Curso C#\31.Interfaces\EjemploInterfaces\EjemploInterfaces\obj\Debug\netcoreapp3.1\EjemploInterfaces.csprojAssemblyReference.cache
+C:\Users\crist\Documents\Universidad\Curso C#\31.Interfaces\EjemploInterfaces\EjemploInterfaces\obj\Debug\netcoreapp3.1\EjemploInterfaces.AssemblyInfoInputs.cache
+C:\Users\crist\Documents\Universidad\Curso C#\31.Interfaces\EjemploInterfaces\EjemploInterfaces\obj\Debug\netcoreapp3.1\EjemploInterfaces.AssemblyInfo.cs
+C:\Users\crist\Documents\Universidad\Curso C#\31.Interfaces\EjemploInterfaces\EjemploInterfaces\obj\Debug\netcoreapp3.1\EjemploInterfaces.dll
+C:\Users\crist\Documents\Universidad\Curso C#\31.Interfaces\EjemploInterfaces\EjemploInterfaces\obj\Debug\netcoreapp3.1\EjemploInterfaces.pdb

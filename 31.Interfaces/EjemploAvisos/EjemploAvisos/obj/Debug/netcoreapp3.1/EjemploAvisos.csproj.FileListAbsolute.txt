@@ -1,0 +1,11 @@
+C:\Users\crist\Documents\Universidad\Curso C#\31.Interfaces\EjemploAvisos\EjemploAvisos\bin\Debug\netcoreapp3.1\EjemploAvisos.exe
+C:\Users\crist\Documents\Universidad\Curso C#\31.Interfaces\EjemploAvisos\EjemploAvisos\bin\Debug\netcoreapp3.1\EjemploAvisos.deps.json
+C:\Users\crist\Documents\Universidad\Curso C#\31.Interfaces\EjemploAvisos\EjemploAvisos\bin\Debug\netcoreapp3.1\EjemploAvisos.runtimeconfig.json
+C:\Users\crist\Documents\Universidad\Curso C#\31.Interfaces\EjemploAvisos\EjemploAvisos\bin\Debug\netcoreapp3.1\EjemploAvisos.runtimeconfig.dev.json
+C:\Users\crist\Documents\Universidad\Curso C#\31.Interfaces\EjemploAvisos\EjemploAvisos\bin\Debug\netcoreapp3.1\EjemploAvisos.dll
+C:\Users\crist\Documents\Universidad\Curso C#\31.Interfaces\EjemploAvisos\EjemploAvisos\bin\Debug\netcoreapp3.1\EjemploAvisos.pdb
+C:\Users\crist\Documents\Universidad\Curso C#\31.Interfaces\EjemploAvisos\EjemploAvisos\obj\Debug\netcoreapp3.1\EjemploAvisos.csprojAssemblyReference.cache
+C:\Users\crist\Documents\Universidad\Curso C#\31.Interfaces\EjemploAvisos\EjemploAvisos\obj\Debug\netcoreapp3.1\EjemploAvisos.AssemblyInfoInputs.cache
+C:\Users\crist\Documents\Universidad\Curso C#\31.Interfaces\EjemploAvisos\EjemploAvisos\obj\Debug\netcoreapp3.1\EjemploAvisos.AssemblyInfo.cs
+C:\Users\crist\Documents\Universidad\Curso C#\31.Interfaces\EjemploAvisos\EjemploAvisos\obj\Debug\netcoreapp3.1\EjemploAvisos.dll
+C:\Users\crist\Documents\Universidad\Curso C#\31.Interfaces\EjemploAvisos\EjemploAvisos\obj\Debug\netcoreapp3.1\EjemploAvisos.pdb
