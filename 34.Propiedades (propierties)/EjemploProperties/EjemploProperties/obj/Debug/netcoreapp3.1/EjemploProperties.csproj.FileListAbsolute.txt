@@ -1,0 +1,11 @@
+C:\Users\crist\Documents\Universidad\Curso C#\34.Propiedades (propierties)\EjemploProperties\EjemploProperties\bin\Debug\netcoreapp3.1\EjemploProperties.exe
+C:\Users\crist\Documents\Universidad\Curso C#\34.Propiedades (propierties)\EjemploProperties\EjemploProperties\bin\Debug\netcoreapp3.1\EjemploProperties.deps.json
+C:\Users\crist\Documents\Universidad\Curso C#\34.Propiedades (propierties)\EjemploProperties\EjemploProperties\bin\Debug\netcoreapp3.1\EjemploProperties.runtimeconfig.json
+C:\Users\crist\Documents\Universidad\Curso C#\34.Propiedades (propierties)\EjemploProperties\EjemploProperties\bin\Debug\netcoreapp3.1\EjemploProperties.runtimeconfig.dev.json
+C:\Users\crist\Documents\Universidad\Curso C#\34.Propiedades (propierties)\EjemploProperties\EjemploProperties\bin\Debug\netcoreapp3.1\EjemploProperties.dll
+C:\Users\crist\Documents\Universidad\Curso C#\34.Propiedades (propierties)\EjemploProperties\EjemploProperties\bin\Debug\netcoreapp3.1\EjemploProperties.pdb
+C:\Users\crist\Documents\Universidad\Curso C#\34.Propiedades (propierties)\EjemploProperties\EjemploProperties\obj\Debug\netcoreapp3.1\EjemploProperties.csprojAssemblyReference.cache
+C:\Users\crist\Documents\Universidad\Curso C#\34.Propiedades (propierties)\EjemploProperties\EjemploProperties\obj\Debug\netcoreapp3.1\EjemploProperties.AssemblyInfoInputs.cache
+C:\Users\crist\Documents\Universidad\Curso C#\34.Propiedades (propierties)\EjemploProperties\EjemploProperties\obj\Debug\netcoreapp3.1\EjemploProperties.AssemblyInfo.cs
+C:\Users\crist\Documents\Universidad\Curso C#\34.Propiedades (propierties)\EjemploProperties\EjemploProperties\obj\Debug\netcoreapp3.1\EjemploProperties.dll
+C:\Users\crist\Documents\Universidad\Curso C#\34.Propiedades (propierties)\EjemploProperties\EjemploProperties\obj\Debug\netcoreapp3.1\EjemploProperties.pdb
