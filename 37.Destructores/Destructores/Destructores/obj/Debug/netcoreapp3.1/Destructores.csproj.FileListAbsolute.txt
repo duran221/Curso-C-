@@ -1,0 +1,11 @@
+C:\Users\crist\Documents\Universidad\Curso C#\37.Destructores\Destructores\Destructores\obj\Debug\netcoreapp3.1\Destructores.AssemblyInfoInputs.cache
+C:\Users\crist\Documents\Universidad\Curso C#\37.Destructores\Destructores\Destructores\obj\Debug\netcoreapp3.1\Destructores.AssemblyInfo.cs
+C:\Users\crist\Documents\Universidad\Curso C#\37.Destructores\Destructores\Destructores\bin\Debug\netcoreapp3.1\Destructores.exe
+C:\Users\crist\Documents\Universidad\Curso C#\37.Destructores\Destructores\Destructores\bin\Debug\netcoreapp3.1\Destructores.deps.json
+C:\Users\crist\Documents\Universidad\Curso C#\37.Destructores\Destructores\Destructores\bin\Debug\netcoreapp3.1\Destructores.runtimeconfig.json
+C:\Users\crist\Documents\Universidad\Curso C#\37.Destructores\Destructores\Destructores\bin\Debug\netcoreapp3.1\Destructores.runtimeconfig.dev.json
+C:\Users\crist\Documents\Universidad\Curso C#\37.Destructores\Destructores\Destructores\bin\Debug\netcoreapp3.1\Destructores.dll
+C:\Users\crist\Documents\Universidad\Curso C#\37.Destructores\Destructores\Destructores\bin\Debug\netcoreapp3.1\Destructores.pdb
+C:\Users\crist\Documents\Universidad\Curso C#\37.Destructores\Destructores\Destructores\obj\Debug\netcoreapp3.1\Destructores.csprojAssemblyReference.cache
+C:\Users\crist\Documents\Universidad\Curso C#\37.Destructores\Destructores\Destructores\obj\Debug\netcoreapp3.1\Destructores.dll
+C:\Users\crist\Documents\Universidad\Curso C#\37.Destructores\Destructores\Destructores\obj\Debug\netcoreapp3.1\Destructores.pdb

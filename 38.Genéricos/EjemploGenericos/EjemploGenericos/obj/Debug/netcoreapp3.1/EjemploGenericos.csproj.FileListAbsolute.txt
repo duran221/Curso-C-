@@ -1,0 +1,11 @@
+C:\Users\crist\Documents\Universidad\Curso C#\38.Genéricos\EjemploGenericos\EjemploGenericos\bin\Debug\netcoreapp3.1\EjemploGenericos.exe
+C:\Users\crist\Documents\Universidad\Curso C#\38.Genéricos\EjemploGenericos\EjemploGenericos\bin\Debug\netcoreapp3.1\EjemploGenericos.deps.json
+C:\Users\crist\Documents\Universidad\Curso C#\38.Genéricos\EjemploGenericos\EjemploGenericos\bin\Debug\netcoreapp3.1\EjemploGenericos.runtimeconfig.json
+C:\Users\crist\Documents\Universidad\Curso C#\38.Genéricos\EjemploGenericos\EjemploGenericos\bin\Debug\netcoreapp3.1\EjemploGenericos.runtimeconfig.dev.json
+C:\Users\crist\Documents\Universidad\Curso C#\38.Genéricos\EjemploGenericos\EjemploGenericos\bin\Debug\netcoreapp3.1\EjemploGenericos.dll
+C:\Users\crist\Documents\Universidad\Curso C#\38.Genéricos\EjemploGenericos\EjemploGenericos\bin\Debug\netcoreapp3.1\EjemploGenericos.pdb
+C:\Users\crist\Documents\Universidad\Curso C#\38.Genéricos\EjemploGenericos\EjemploGenericos\obj\Debug\netcoreapp3.1\EjemploGenericos.csprojAssemblyReference.cache
+C:\Users\crist\Documents\Universidad\Curso C#\38.Genéricos\EjemploGenericos\EjemploGenericos\obj\Debug\netcoreapp3.1\EjemploGenericos.AssemblyInfoInputs.cache
+C:\Users\crist\Documents\Universidad\Curso C#\38.Genéricos\EjemploGenericos\EjemploGenericos\obj\Debug\netcoreapp3.1\EjemploGenericos.AssemblyInfo.cs
+C:\Users\crist\Documents\Universidad\Curso C#\38.Genéricos\EjemploGenericos\EjemploGenericos\obj\Debug\netcoreapp3.1\EjemploGenericos.dll
+C:\Users\crist\Documents\Universidad\Curso C#\38.Genéricos\EjemploGenericos\EjemploGenericos\obj\Debug\netcoreapp3.1\EjemploGenericos.pdb
