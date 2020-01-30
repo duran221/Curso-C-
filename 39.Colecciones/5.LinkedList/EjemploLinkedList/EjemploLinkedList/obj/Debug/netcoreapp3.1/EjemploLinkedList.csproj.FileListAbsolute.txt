@@ -1,0 +1,11 @@
+C:\Users\crist\Documents\Universidad\Curso C#\39.Colecciones\5.LinkedList\EjemploLinkedList\EjemploLinkedList\bin\Debug\netcoreapp3.1\EjemploLinkedList.exe
+C:\Users\crist\Documents\Universidad\Curso C#\39.Colecciones\5.LinkedList\EjemploLinkedList\EjemploLinkedList\bin\Debug\netcoreapp3.1\EjemploLinkedList.deps.json
+C:\Users\crist\Documents\Universidad\Curso C#\39.Colecciones\5.LinkedList\EjemploLinkedList\EjemploLinkedList\bin\Debug\netcoreapp3.1\EjemploLinkedList.runtimeconfig.json
+C:\Users\crist\Documents\Universidad\Curso C#\39.Colecciones\5.LinkedList\EjemploLinkedList\EjemploLinkedList\bin\Debug\netcoreapp3.1\EjemploLinkedList.runtimeconfig.dev.json
+C:\Users\crist\Documents\Universidad\Curso C#\39.Colecciones\5.LinkedList\EjemploLinkedList\EjemploLinkedList\bin\Debug\netcoreapp3.1\EjemploLinkedList.dll
+C:\Users\crist\Documents\Universidad\Curso C#\39.Colecciones\5.LinkedList\EjemploLinkedList\EjemploLinkedList\bin\Debug\netcoreapp3.1\EjemploLinkedList.pdb
+C:\Users\crist\Documents\Universidad\Curso C#\39.Colecciones\5.LinkedList\EjemploLinkedList\EjemploLinkedList\obj\Debug\netcoreapp3.1\EjemploLinkedList.csprojAssemblyReference.cache
+C:\Users\crist\Documents\Universidad\Curso C#\39.Colecciones\5.LinkedList\EjemploLinkedList\EjemploLinkedList\obj\Debug\netcoreapp3.1\EjemploLinkedList.AssemblyInfoInputs.cache
+C:\Users\crist\Documents\Universidad\Curso C#\39.Colecciones\5.LinkedList\EjemploLinkedList\EjemploLinkedList\obj\Debug\netcoreapp3.1\EjemploLinkedList.AssemblyInfo.cs
+C:\Users\crist\Documents\Universidad\Curso C#\39.Colecciones\5.LinkedList\EjemploLinkedList\EjemploLinkedList\obj\Debug\netcoreapp3.1\EjemploLinkedList.dll
+C:\Users\crist\Documents\Universidad\Curso C#\39.Colecciones\5.LinkedList\EjemploLinkedList\EjemploLinkedList\obj\Debug\netcoreapp3.1\EjemploLinkedList.pdb
