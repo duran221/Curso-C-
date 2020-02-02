@@ -1,0 +1,11 @@
+C:\Users\crist\Documents\Universidad\Curso C#\39.Colecciones\8.Diccionarios (Dictionary)\EjemploDictionary\EjemploDictionary\bin\Debug\netcoreapp3.1\EjemploDictionary.exe
+C:\Users\crist\Documents\Universidad\Curso C#\39.Colecciones\8.Diccionarios (Dictionary)\EjemploDictionary\EjemploDictionary\bin\Debug\netcoreapp3.1\EjemploDictionary.deps.json
+C:\Users\crist\Documents\Universidad\Curso C#\39.Colecciones\8.Diccionarios (Dictionary)\EjemploDictionary\EjemploDictionary\bin\Debug\netcoreapp3.1\EjemploDictionary.runtimeconfig.json
+C:\Users\crist\Documents\Universidad\Curso C#\39.Colecciones\8.Diccionarios (Dictionary)\EjemploDictionary\EjemploDictionary\bin\Debug\netcoreapp3.1\EjemploDictionary.runtimeconfig.dev.json
+C:\Users\crist\Documents\Universidad\Curso C#\39.Colecciones\8.Diccionarios (Dictionary)\EjemploDictionary\EjemploDictionary\bin\Debug\netcoreapp3.1\EjemploDictionary.dll
+C:\Users\crist\Documents\Universidad\Curso C#\39.Colecciones\8.Diccionarios (Dictionary)\EjemploDictionary\EjemploDictionary\bin\Debug\netcoreapp3.1\EjemploDictionary.pdb
+C:\Users\crist\Documents\Universidad\Curso C#\39.Colecciones\8.Diccionarios (Dictionary)\EjemploDictionary\EjemploDictionary\obj\Debug\netcoreapp3.1\EjemploDictionary.csprojAssemblyReference.cache
+C:\Users\crist\Documents\Universidad\Curso C#\39.Colecciones\8.Diccionarios (Dictionary)\EjemploDictionary\EjemploDictionary\obj\Debug\netcoreapp3.1\EjemploDictionary.AssemblyInfoInputs.cache
+C:\Users\crist\Documents\Universidad\Curso C#\39.Colecciones\8.Diccionarios (Dictionary)\EjemploDictionary\EjemploDictionary\obj\Debug\netcoreapp3.1\EjemploDictionary.AssemblyInfo.cs
+C:\Users\crist\Documents\Universidad\Curso C#\39.Colecciones\8.Diccionarios (Dictionary)\EjemploDictionary\EjemploDictionary\obj\Debug\netcoreapp3.1\EjemploDictionary.dll
+C:\Users\crist\Documents\Universidad\Curso C#\39.Colecciones\8.Diccionarios (Dictionary)\EjemploDictionary\EjemploDictionary\obj\Debug\netcoreapp3.1\EjemploDictionary.pdb

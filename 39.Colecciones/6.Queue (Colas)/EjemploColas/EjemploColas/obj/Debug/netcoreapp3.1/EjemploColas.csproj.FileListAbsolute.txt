@@ -1,0 +1,11 @@
+C:\Users\crist\Documents\Universidad\Curso C#\39.Colecciones\6.Queue (Colas)\EjemploColas\EjemploColas\bin\Debug\netcoreapp3.1\EjemploColas.exe
+C:\Users\crist\Documents\Universidad\Curso C#\39.Colecciones\6.Queue (Colas)\EjemploColas\EjemploColas\bin\Debug\netcoreapp3.1\EjemploColas.deps.json
+C:\Users\crist\Documents\Universidad\Curso C#\39.Colecciones\6.Queue (Colas)\EjemploColas\EjemploColas\bin\Debug\netcoreapp3.1\EjemploColas.runtimeconfig.json
+C:\Users\crist\Documents\Universidad\Curso C#\39.Colecciones\6.Queue (Colas)\EjemploColas\EjemploColas\bin\Debug\netcoreapp3.1\EjemploColas.runtimeconfig.dev.json
+C:\Users\crist\Documents\Universidad\Curso C#\39.Colecciones\6.Queue (Colas)\EjemploColas\EjemploColas\bin\Debug\netcoreapp3.1\EjemploColas.dll
+C:\Users\crist\Documents\Universidad\Curso C#\39.Colecciones\6.Queue (Colas)\EjemploColas\EjemploColas\bin\Debug\netcoreapp3.1\EjemploColas.pdb
+C:\Users\crist\Documents\Universidad\Curso C#\39.Colecciones\6.Queue (Colas)\EjemploColas\EjemploColas\obj\Debug\netcoreapp3.1\EjemploColas.csprojAssemblyReference.cache
+C:\Users\crist\Documents\Universidad\Curso C#\39.Colecciones\6.Queue (Colas)\EjemploColas\EjemploColas\obj\Debug\netcoreapp3.1\EjemploColas.AssemblyInfoInputs.cache
+C:\Users\crist\Documents\Universidad\Curso C#\39.Colecciones\6.Queue (Colas)\EjemploColas\EjemploColas\obj\Debug\netcoreapp3.1\EjemploColas.AssemblyInfo.cs
+C:\Users\crist\Documents\Universidad\Curso C#\39.Colecciones\6.Queue (Colas)\EjemploColas\EjemploColas\obj\Debug\netcoreapp3.1\EjemploColas.dll
+C:\Users\crist\Documents\Universidad\Curso C#\39.Colecciones\6.Queue (Colas)\EjemploColas\EjemploColas\obj\Debug\netcoreapp3.1\EjemploColas.pdb

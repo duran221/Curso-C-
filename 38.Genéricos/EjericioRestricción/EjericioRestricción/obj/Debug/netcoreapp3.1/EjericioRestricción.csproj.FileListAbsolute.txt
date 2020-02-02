@@ -1,0 +1,11 @@
+C:\Users\crist\Documents\Universidad\Curso C#\38.Genéricos\EjericioRestricción\EjericioRestricción\bin\Debug\netcoreapp3.1\EjericioRestricción.exe
+C:\Users\crist\Documents\Universidad\Curso C#\38.Genéricos\EjericioRestricción\EjericioRestricción\bin\Debug\netcoreapp3.1\EjericioRestricción.deps.json
+C:\Users\crist\Documents\Universidad\Curso C#\38.Genéricos\EjericioRestricción\EjericioRestricción\bin\Debug\netcoreapp3.1\EjericioRestricción.runtimeconfig.json
+C:\Users\crist\Documents\Universidad\Curso C#\38.Genéricos\EjericioRestricción\EjericioRestricción\bin\Debug\netcoreapp3.1\EjericioRestricción.runtimeconfig.dev.json
+C:\Users\crist\Documents\Universidad\Curso C#\38.Genéricos\EjericioRestricción\EjericioRestricción\bin\Debug\netcoreapp3.1\EjericioRestricción.dll
+C:\Users\crist\Documents\Universidad\Curso C#\38.Genéricos\EjericioRestricción\EjericioRestricción\bin\Debug\netcoreapp3.1\EjericioRestricción.pdb
+C:\Users\crist\Documents\Universidad\Curso C#\38.Genéricos\EjericioRestricción\EjericioRestricción\obj\Debug\netcoreapp3.1\EjericioRestricción.csprojAssemblyReference.cache
+C:\Users\crist\Documents\Universidad\Curso C#\38.Genéricos\EjericioRestricción\EjericioRestricción\obj\Debug\netcoreapp3.1\EjericioRestricción.AssemblyInfoInputs.cache
+C:\Users\crist\Documents\Universidad\Curso C#\38.Genéricos\EjericioRestricción\EjericioRestricción\obj\Debug\netcoreapp3.1\EjericioRestricción.AssemblyInfo.cs
+C:\Users\crist\Documents\Universidad\Curso C#\38.Genéricos\EjericioRestricción\EjericioRestricción\obj\Debug\netcoreapp3.1\EjericioRestricción.dll
+C:\Users\crist\Documents\Universidad\Curso C#\38.Genéricos\EjericioRestricción\EjericioRestricción\obj\Debug\netcoreapp3.1\EjericioRestricción.pdb
